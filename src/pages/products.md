@@ -1,6 +1,6 @@
 ---
 title: Products
-permalink: products
+permalink: products/index.html
 tags:
   - products
 ---
