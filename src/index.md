@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Bishy Weigh
+title: The Bishy Weigh
 postsHeading: Latest posts
 archiveButtonText: See all posts
 socialImage: ''
