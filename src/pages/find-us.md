@@ -1,5 +1,6 @@
 ---
 title: Find Us
+permalink: find-us
 tags:
   - find us
   - opening hours
